@@ -64,6 +64,7 @@
   is_pi: False
   is_current: True
   position: Master student
+  scholar: https://scholar.google.com/citations?user=YfDnr0AAAAAJ&hl=en 
   bio: >
     Andrey received a B.A. degree in Linguistics and an M.A. degree in Cognitive Neuroscience at 
     the HSE University, Moscow, Russia. He has been using neuroimaging and stimulation methods in 
@@ -79,6 +80,13 @@
   is_pi: False
   is_current: True
   position: Medical Student
+  github: https://github.com/lmctewald
   bio: >
-    No bio added yet.
-  photo: /images/design/our_logo/logo_circle_white_background.svg
+    Lea-Marie is studying medicine at the University of Tübingen with a special interest in neurology and psychosomatics. 
+    Her curiosity for bilingual language processing and the background of language-associated diseases motivated her to
+     join the hvc lab as a medical student in October 2022. Her research aims to better understand cross-linguistic effects on 
+     neural language processing, especially with regard to syllable rhythm. Beyond her research, Lea-Marie is also passionate about 
+     foreign languages paving the way to explore and learn about different cultures. In her free time, Lea-Marie enjoys exploring new 
+     jogging tracks across Tübingen and playing the flute in different orchestras. In addition to her native German, she speaks English, 
+     French, some Italian and is always happy to find new conversation partners to improve her knowledge of Thai. 
+  photo: /images/team/lea-marie_tewald.jpeg

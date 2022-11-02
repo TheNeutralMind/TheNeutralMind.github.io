@@ -16,7 +16,7 @@ We use multiple electrophysiological methodologies, including whole-brain record
 ## Previous Research Projects
 
 ### Cortical representations of syllables in continuous speech
-The continuous speech signal is characterized by prominent temporal modulations of its overall amplitude, reflective of its syllabic structure. In my postdoctoral work at UCSF, I probed how the speech envelope is encoded in the speech cortex using intracranial recordings from neurosurgical patients. We discovered that neuronal populations in speech cortex represent the speech amplitude envelope through encoding of rapid increases in the envelope (acoustic edges). This representation reflects the rate of amplitude change, cueing the timing and stress of syllables (Oganian & Chang, Sci Adv, 2019).<br>
+The continuous speech signal is characterized by prominent temporal modulations of its overall amplitude, reflective of its syllabic structure. In her postdoctoral work at UCSF, Yulia probed how the speech envelope is encoded in the speech cortex using intracranial recordings from neurosurgical patients. They discovered that neuronal populations in speech cortex represent the speech amplitude envelope through encoding of rapid increases in the envelope (acoustic edges). This representation reflects the rate of amplitude change, cueing the timing and stress of syllables (Oganian & Chang, Sci Adv, 2019).<br>
 This piece on [npr](https://www.npr.org/sections/health-shots/2019/11/20/780988618/the-loudness-of-vowels-helps-the-brain-break-down-speech-into-syl-la-bles) contains a comprehensive summary of this work.
 <br>
 <br>

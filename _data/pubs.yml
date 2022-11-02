@@ -1,0 +1,20 @@
+- year: '2022'
+  type: 'preprint'
+  title: 'Phase alignment of low-frequency neural activity to the amplitude envelope of speech reflects evoked responses to acoustic edges, not oscillatory entrainment.'
+  authors: 'Oganian, Y., Kojima, K., Breska, A., Cai, C., Findlay, A., Chang, E., Nagarajan, S.'
+  journal: '<i>BioRxiv.</i>'
+  link: https://biorxiv.org/content/10.1101/2020.04.02.022616v4
+
+- year: '2022'
+  title: 'Cortical Representation of Speech Sounds: Insights from Intracranial Electrophysiology.'
+  authors: 'Oganian, Y., Fox, N. P., Chang, E. F.'
+  journal: 'In: Holt, L.L., Peelle, J.E., Coffin, A.B., Popper, A.N., Fay, R.R. (eds) Speech Perception. Springer Handbook of Auditory Research, vol 74. Springer, Cham.'
+  link: https://doi.org/10.1007/978-3-030-81542-4_3
+  doi: https://doi.org/10.1007/978-3-030-81542-4_3
+ 
+- year: '2021'
+  title: 'Parallel and distributed encoding of speech across human auditory cortex.'
+  authors: 'Hamilton, L. S., Oganian, Y., Hall, J., & Chang, E. F.'
+  journal: '<i>Cell, 184</i>(18), 4626-4639.e13.'
+  link: https://doi.org/10.1016/j.cell.2021.07.019
+  doi: https://doi.org/10.1016/j.cell.2021.07.019

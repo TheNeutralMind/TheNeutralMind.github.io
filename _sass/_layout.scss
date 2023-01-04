@@ -11,9 +11,9 @@ body {
 	display: flex;
 }
 
-@media (max-width: 776px) {
+@media (max-width: 800px) {
 	.header_logo {
-		margin-top: 80px;
+		margin-top: 50px;
 	}
 }
 
@@ -26,14 +26,12 @@ body {
 h1,
 h2,
 h3, 
-h4, 
-.subtitle {
+h4 {
 	font-weight: 600;
 	color: $heading-font-color;
 	font-family: $heading-font;
 	line-height: 1.0;
 }
-
 h1 {
 	color: $main;
 	font-size: 1.7em;
@@ -45,12 +43,11 @@ h1 {
 		color: $main;
 	}
 }
-
 h2 {
 	font-size: 1.3em;
 }
 
-.subtitle {
+h4{
 	line-height: 0.0;
 	font-size: 1.6em;
 	margin-left: 324px;

@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Welcome to our website!"
-date:   2023-01-03 13:35:00
-categories: general
+title:  "Welcome to Jekyll!"
+date:   2015-11-30 00:10:45
+categories: jekyll update
 ---
 
-Welcome to the website of our Lab! We are still in the process of developing it. News and Updates will be up here soon!

@@ -11,7 +11,7 @@ body {
 	display: flex;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 676px) {
 	.header_logo {
 		margin-top: 100px;
 	}
@@ -26,7 +26,8 @@ body {
 h1,
 h2,
 h3, 
-h4 {
+h4, 
+subtitle {
 	font-weight: 600;
 	color: $heading-font-color;
 	font-family: $heading-font;
@@ -43,11 +44,12 @@ h1 {
 		color: $main;
 	}
 }
+
 h2 {
 	font-size: 1.3em;
 }
 
-h4{
+subtitle {
 	line-height: 0.0;
 	font-size: 1.6em;
 	margin-left: 324px;

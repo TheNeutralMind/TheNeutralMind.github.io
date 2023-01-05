@@ -18,6 +18,16 @@ body {
 	}
 }
 
+@media (max-width: 400px) {
+	.header_logo {
+		margin-top: 50px;
+	}
+
+	.subtitle {
+		margin-left: 10px;
+	}
+}
+
 .header_title {
 	display: flex;
 	flex-direction: column;
@@ -46,7 +56,6 @@ h1 {
 		text-decoration: none;
 		color: $main;
 	}
-
 }
 
 h2,

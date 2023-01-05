@@ -1,8 +1,11 @@
 
 
-<h2><span class="member-name">{{ member.name }}</span></h2>
+<h2><span class="member-name">{{ member.name }} </span></h2>
 
-<h3>{% if member.position %}{{ member.position }}{% endif %}</h3>
+<h3>{% if member.position %}({{ member.position }}){% endif %}</h3>
+
+<br>
+<br>
 
 {% if member.photo %}
     <img class="float-left member-photo" src="{{ member.photo | prepend: site.images_dir | prepend: site.baseurl }}" width=auto height="250">
@@ -27,7 +30,7 @@
 <a href="{{member.linkedin}}"><img src="/images/design/social_media_icons/linkedin.png" width="40" height="40"/></a>
 {% endif %}
 
-
+<br>
 <br>
 <hr />
 <br>

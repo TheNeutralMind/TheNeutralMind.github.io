@@ -28,7 +28,8 @@ h1,
 h2,
 h3, 
 h4,
-.subtitle {
+.subtitle,
+.member-title {
 	font-weight: 600;
 	color: $heading-font-color;
 	font-family: $heading-font;
@@ -48,16 +49,19 @@ h1 {
 
 }
 
-h2 {
+h2,
+.member-title {
 	font-size: 1.3em;
+}
+
+.member-title{
 	display: inline;
 }
 
-h3 {
+h4 {
 	display: inline;
 	font-style: italic;
 	color: $font-color;
-	
 }
 
 .subtitle {

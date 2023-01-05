@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2>Welcome to the HVC Lab!</h2>
+<h1>Welcome to the HVC Lab!</h1>
 Starting out in November 2021, we are a growing research group studying the cognitive and neural mechanisms that support language comprehension and verbal communication.
 <br/><br/>
 We use behavioural and electrophysiological (MEG, (intracranial) EEG) measures in humans.

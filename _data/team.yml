@@ -29,13 +29,13 @@
   position: PhD Student
   bio: >
     Charlotte is a speech and language therapist turned cognitive scientist with
-     an interest in the neural underpinnings of multimodal language processing. 
-     After receiving her B.A. from the Ludwig-Maximilians University in Munich, 
-     Charlotte moved to Kaiserslautern and completed her M.Sc. in Cognitive Science 
-     at the Technical University. In February 2022, she joined the HVC lab as a 
-     PhD student. Charlotte is currently interested in temporal landmarks in the 
-     speech signal and plans on using electrophysiological as well as behavioral 
-     data in the future.
+    an interest in the neural underpinnings of multimodal language processing. 
+    After receiving her B.A. from the Ludwig-Maximilians University in Munich, 
+    Charlotte moved to Kaiserslautern and completed her M.Sc. in Cognitive Science 
+    at the Technical University. In February 2022, she joined the HVC lab as a 
+    PhD student. Charlotte is currently interested in temporal landmarks in the 
+    speech signal and plans on using electrophysiological as well as behavioral 
+    data in the future.
     In her free time, she enjoys making lino prints and trying out new recipes. 
     Charlotte speaks German and English, and is currently brushing up on her French.
   photo: /images/team/charlotte_mock.jpg
@@ -84,9 +84,28 @@
   bio: >
     Lea-Marie is studying medicine at the University of Tübingen with a special interest in neurology and psychosomatics. 
     Her curiosity for bilingual language processing and the background of language-associated diseases motivated her to
-     join the hvc lab as a medical student in October 2022. Her research aims to better understand cross-linguistic effects on 
-     neural language processing, especially with regard to syllable rhythm. Beyond her research, Lea-Marie is also passionate about 
-     foreign languages paving the way to explore and learn about different cultures. In her free time, Lea-Marie enjoys exploring new 
-     jogging tracks across Tübingen and playing the flute in different orchestras. In addition to her native German, she speaks English, 
-     French, some Italian and is always happy to find new conversation partners to improve her knowledge of Thai. 
+    join the hvc lab as a medical student in October 2022. Her research aims to better understand cross-linguistic effects on 
+    neural language processing, especially with regard to syllable rhythm. Beyond her research, Lea-Marie is also passionate about 
+    foreign languages paving the way to explore and learn about different cultures. In her free time, Lea-Marie enjoys exploring new 
+    jogging tracks across Tübingen and playing the flute in different orchestras. In addition to her native German, she speaks English, 
+    French, some Italian and is always happy to find new conversation partners to improve her knowledge of Thai. 
   photo: /images/team/lea-marie_tewald.jpeg
+
+- name: Madeline Philipsen
+  is_pi: False
+  is_current: True
+  position: Student Assistant
+  github: 
+  bio: >
+    Madeline is currently writing her Bachelor's Thesis in General Linguistics at the University of Tübingen. She aims to start a Master's
+    degree in Cognitive Neuroscience in September 2023 and works as a student assistant in the HVC lab to gather research experience in this area. 
+    In her free time, she plays the piano and the violin. She speaks German, English, French, Japanese and some Italian and Arabic.
+  photo: 
+
+- name: Ema Zezelic
+  is_pi: False
+  is_current: True
+  position: Master Student, Lab Rotation
+  github: 
+  bio: >
+  photo: 

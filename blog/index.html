@@ -3,10 +3,8 @@ layout: default
 ---
 
 <h1>News</h1>
-{% for post in site.posts %}
-		<time>{{ post.date | date: "%b %-d, %Y" }}</time>
-		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-{% endfor %}
-
-<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}

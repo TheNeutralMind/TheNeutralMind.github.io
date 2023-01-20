@@ -18,20 +18,11 @@ body {
 	}
 }
 
-@media (max-width: 400px) {
-	.header_logo {
-		margin-top: 50px;
-	}
-
-	.subtitle {
-		margin-left: 10px;
-	}
-}
-
 .header_title {
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-end;
+	width: 100%;
 }
 
 h1,
@@ -186,3 +177,21 @@ input[type='submit']{
 	line-height: 1.6;
 	width: 10%;
 }
+
+
+.float-left-member-photo{
+	width: auto;
+	height: 250px;
+}
+
+.logo{
+	width: 324px; 
+	height: auto;
+}
+
+img{
+	border-radius: 2px;
+	max-width: 80%;
+	height: auto;
+}
+

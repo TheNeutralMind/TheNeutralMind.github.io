@@ -1,7 +1,21 @@
-<p style="margin:0px 0px -3px -0px">{{pub.authors}} ({{pub.year}}). {{ pub.title }} {{pub.journal}} {{pub.link}} </p>
+<p style="margin:10px 0px -3px -0px">{{pub.authors}} ({{pub.year}}). {{ pub.title }} {{pub.journal}}</p>
 
 {% if pub.doi %}
 <a href="{{pub.doi}}" target="_blank"><input class="button1" type="button" value="doi" style="background-color: #a21e3a;
+    border: none;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;" /></a>
+{% endif %}
+
+{% if pub.link %}
+<a href="{{pub.link}}" target="_blank"><input class="button1" type="button" value="doi" style="background-color: #a21e3a;
     border: none;
     color: white;
     padding: 4px 8px;

@@ -5,21 +5,21 @@
 - year: '2022'
   type: 'preprint'
   title: 'Phase alignment of low-frequency neural activity to the amplitude envelope of speech reflects evoked responses to acoustic edges, not oscillatory entrainment.'
-  authors: 'Oganian, Y.*, Kojima K.*, Breska A., Cheng C., Findlay A., Chang E.F. & Nagarajan S.'
+  authors: 'Oganian, Y.*, Kojima, K.*, Breska, A., Cheng, C., Findlay, A., Chang, E.F. & Nagarajan, S.'
   journal: '<i>BioRxiv.</i>'
   link: https://biorxiv.org/content/10.1101/2020.04.02.022616v4
   
 - year: '2022'
   type: 'preprint'
   title: 'Neural representation of vowels and formants in human speech cortex.'
-  authors: 'Oganian Y.*, Bhaya-Grossman, I.*, Johnson K. & Chang E.F.'
+  authors: 'Oganian, Y.*, Bhaya-Grossman, I.*, Johnson, K. & Chang, E.F.'
   journal: '<i>BioRxiv.</i>'
   link: https://biorxiv.org/content/10.1101/2022.09.13.507547
   
 - year: '2021'
   type: 'preprint'
   title: 'Latent neural dynamics encode temporal context in speech.'
-  authors: 'Stephen E.P., Li Y., Metzger S., Oganian Y., Chang E.F.'
+  authors: 'Stephen, E.P., Li, Y., Metzger, S., Oganian, Y., Chang, E.F.'
   journal: '<i>BioRxiv.</i>'
   link: https://biorxiv.org/content/10.1101/2021.07.15.452519
  
@@ -28,7 +28,7 @@
 - year: '2021'
   type: 'published'
   title: 'Parallel and distributed encoding of speech across human auditory cortex.'
-  authors: 'Hamilton, L. S., Oganian, Y., Hall, J., & Chang, E. F.'
+  authors: 'Hamilton, L.S., Oganian, Y., Hall, J., & Chang, E.F.'
   journal: '<i>Cell, 184</i>(18), 4626-4639.e13.'
   doi: https://doi.org/10.1016/j.cell.2021.07.019
   
@@ -45,7 +45,7 @@
 - year: '2020'
   type: 'published'
   title: 'Risk incidence of fractures and injuries: A multicenter video-EEG study of 626 generalized convulsive seizures.'
-  authors: 'Frey K., Zöllner J.P., Knake S., Oganian Y., Kay L., Mahr K., Keil F., Willems L.M., Menzler K., Bauer S., Schubert-Bast S., Rosenow F., Strzelczyk A.'
+  authors: 'Frey, K., Zöllner, J.P., Knake, S., Oganian, Y., Kay, L., Mahr, K., Keil, F., Willems, L.M., Menzler, K., Bauer, S., Schubert-Bast, S., Rosenow, F., Strzelczyk, A.'
   journal: '<i>Journal of Neurology, 267,</i> 3632–3642.'
   doi: https://doi.org/10.1007/s00415-020-10065-5
   
@@ -64,28 +64,28 @@
 - year: '2019'
   type: 'published'
   title: 'The neurocognitive signature of focus alternatives.'
-  authors: 'Spalek K.* & Oganian, Y.*'
+  authors: 'Spalek, K.* & Oganian, Y.*'
   journal: '<i>Brain & Language, 194,</i> 98-108.'
   doi: https://doi.org/10.1016/j.bandl.2019.04.007
   
 - year: '2016'
   type: 'published'
   title: 'Slower perception followed by faster lexical decision in longer words: A diffusion model analysis.'
-  authors: 'Oganian, Y., Froehlich, E., Schlickeiser, U., Hofmann, M. J., Heekeren, H. R., & Jacobs, A. M.'
+  authors: 'Oganian, Y., Froehlich, E., Schlickeiser, U., Hofmann, M.J., Heekeren, H.R., & Jacobs, A.M.'
   journal: '<i>Frontiers in Psychology, 6,</i> 1958.'
   doi: https://doi.org/10.3389/fpsyg.2015.01958
   
 - year: '2016'
   type: 'published'
   title: 'Interplay of bigram frequency and orthographic neighborhood statistics in language membership decision.'
-  authors: 'Oganian, Y., Conrad, M., Aryani, A., Heekeren, H. R., & Spalek, K.'
+  authors: 'Oganian, Y., Conrad, M., Aryani, A., Heekeren, H.R., & Spalek, K.'
   journal: '<i>Bilingualism: Language and Cognition, 19</i>(3), 578-596.'
   doi: https://doi.org/10.1017/S1366728915000292
   
 - year: '2015'
   type: 'published'
   title: 'Activation Patterns throughout the Word Processing Network of L1-dominant Bilinguals Reflect Language Similarity and Language Decisions.'
-  authors: 'Oganian, Y., Conrad, M., Aryani, A., Spalek, K.*, & Heekeren, H. R.*'
+  authors: 'Oganian, Y., Conrad, M., Aryani, A., Spalek, K.*, & Heekeren, H.R.*'
   journal: '<i>Journal of Cognitive Neuroscience, 27</i>(11), 2197–2214.'
   doi: https://doi.org/10.1162/jocn_a_00853
   
@@ -116,7 +116,7 @@
 - year: '2022'
   type: 'chapter'
   title: 'Cortical Representation of Speech Sounds: Insights from Intracranial Electrophysiology.'
-  authors: 'Oganian, Y., Fox, N. P., Chang, E. F.'
+  authors: 'Oganian, Y., Fox, N.P., Chang, E.F.'
   journal: 'In: Holt, L.L., Peelle, J.E., Coffin, A.B., Popper, A.N., Fay, R.R. (Eds.) Speech Perception. Springer Handbook of Auditory Research, Vol. 74. Springer, Cham.'
   doi: https://doi.org/10.1007/978-3-030-81542-4_3
   
@@ -153,20 +153,20 @@
 - year: '2018'
   type: 'published'
   title: 'A hard-to-read font reduces the framing effect in a large sample.'
-  authors: 'Korn, C. W., Ries, J., Schalk, L., Oganian, Y., & Saalbach, H. A.'
+  authors: 'Korn, C.W., Ries, J., Schalk, L., Oganian, Y., & Saalbach, H. A.'
   journal: '<i>Psychonomic Bulletin & Review, 25,</i> 696–703.'
   doi: https://doi.org/10.3758/s13423-017-1395-4
   
 - year: '2017'
   type: 'published'
   title: 'Second Language Use Facilitates Implicit Emotion Regulation via Content Labeling.'
-  authors: 'Morawetz, C. *, Oganian, Y.*, Schlickeiser, U., Jacobs, A. M., & Heekeren, H. R.'
+  authors: 'Morawetz, C.*, Oganian, Y.*, Schlickeiser, U., Jacobs, A.M., & Heekeren, H.R.'
   journal: '<i>Frontiers in Psychology, 8,</i> 366.'
   doi: https://doi.org/10.3389/fpsyg.2017.00366
   
 - year: '2016'
   type: 'published'
   title: 'Language switching - but not foreign language use per se - reduces the framing effect.'
-  authors: 'Oganian, Y.*, Korn, C. W. *, & Heekeren, H. R.'
+  authors: 'Oganian, Y.*, Korn, C.W.*, & Heekeren, H.R.'
   journal: '<i>Journal of Experimental Psychology: Learning, Memory, and Cognition, 42</i>(1), 140–148.'
   doi: https://doi.org/10.1037/xlm0000161

@@ -2,6 +2,7 @@
   is_pi: True
   is_current: True
   position: Research Group Leader
+  email: yulia.oganian*at*uni-tuebingen.de
   scholar: https://scholar.google.com/citations?user=cet5dfgAAAAJ&hl=de&oi=ao
   researchgate: https://www.researchgate.net/profile/Yulia-Oganian
   github: https://github.com/yoganian
@@ -23,10 +24,12 @@
 - name: Charlotte Mock
   is_pi: False
   is_current: True
+  position: PhD Student
+  email: charlotte.mock*at*uni-tuebingen.de
   github: https://github.com/charlottemock
   twitter: https://twitter.com/_charlottemock
   linkedin: https://www.linkedin.com/in/charlotte-m-mock/ 
-  position: PhD Student
+
   bio: >
     Charlotte is a speech and language therapist turned cognitive scientist with
     an interest in the neural underpinnings of multimodal language processing. 
@@ -44,6 +47,7 @@
   is_pi: False
   is_current: True
   position: PhD Student
+  email: m.wolter*at*uni-tuebingen.de
   researchgate: https://www.researchgate.net/profile/Mara-Wolter-2 
   scholar: https://scholar.google.com/citations?user=DIuROyYAAAAJ&hl=de 
   github: https://github.com/marakw
@@ -64,6 +68,7 @@
   is_pi: False
   is_current: True
   position: Master Student
+  email: andrey.zyryanov*at*uni-tuebingen.de
   scholar: https://scholar.google.com/citations?user=YfDnr0AAAAAJ&hl=en 
   bio: >
     Andrey received a B.A. degree in Linguistics and an M.A. degree in Cognitive Neuroscience at 
@@ -80,6 +85,7 @@
   is_pi: False
   is_current: True
   position: Medical Student
+  email: lea-marie.tewald*at*student.uni-tuebingen.de
   github: https://github.com/lmctewald
   bio: >
     Lea-Marie is studying medicine at the University of Tübingen with a special interest in neurology and psychosomatics. 

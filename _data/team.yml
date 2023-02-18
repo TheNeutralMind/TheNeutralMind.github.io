@@ -2,7 +2,7 @@
   is_pi: True
   is_current: True
   position: Research Group Leader
-  email: yulia.oganian*at*uni-tuebingen.de
+  email: https://uni-tuebingen.de/forschung/forschungsschwerpunkte/cin/arbeitsgruppen-alumni/arbeitsgruppen/oganian-y-cognitive-neuroscience-of-human-verbal-communication/staff/ 
   scholar: https://scholar.google.com/citations?user=cet5dfgAAAAJ&hl=de&oi=ao
   researchgate: https://www.researchgate.net/profile/Yulia-Oganian
   github: https://github.com/yoganian
@@ -25,7 +25,6 @@
   is_pi: False
   is_current: True
   position: PhD Student
-  email: charlotte.mock*at*uni-tuebingen.de
   github: https://github.com/charlottemock
   twitter: https://twitter.com/_charlottemock
   linkedin: https://www.linkedin.com/in/charlotte-m-mock/ 
@@ -47,7 +46,6 @@
   is_pi: False
   is_current: True
   position: PhD Student
-  email: m.wolter*at*uni-tuebingen.de
   researchgate: https://www.researchgate.net/profile/Mara-Wolter-2 
   scholar: https://scholar.google.com/citations?user=DIuROyYAAAAJ&hl=de 
   github: https://github.com/marakw
@@ -68,7 +66,6 @@
   is_pi: False
   is_current: True
   position: Master Student
-  email: andrey.zyryanov*at*uni-tuebingen.de
   scholar: https://scholar.google.com/citations?user=YfDnr0AAAAAJ&hl=en 
   bio: >
     Andrey received a B.A. degree in Linguistics and an M.A. degree in Cognitive Neuroscience at 
@@ -85,7 +82,6 @@
   is_pi: False
   is_current: True
   position: Medical Student
-  email: lea-marie.tewald*at*student.uni-tuebingen.de
   github: https://github.com/lmctewald
   bio: >
     Lea-Marie is studying medicine at the University of Tübingen with a special interest in neurology and psychosomatics. 

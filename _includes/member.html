@@ -11,12 +11,7 @@
     <img class="float-left-member-photo" src="{{ member.photo | prepend: site.images_dir | prepend: site.baseurl }}" width=auto height="250">
 {% endif %}
 
-
 <p>{{ member.bio }}</p>
-
-{% if member.email %}
-<p> <div class="emailfont"> E-mail:  {{ member.email }}</div></p> 
-{% endif %}
 
 {% if member.scholar %}
 <a href="{{member.scholar}}"><img src="/images/design/social_media_icons/scholar.png" width="40" height="40"/></a>
@@ -32,6 +27,9 @@
 {% endif %}
 {% if member.linkedin %}
 <a href="{{member.linkedin}}"><img src="/images/design/social_media_icons/linkedin.png" width="40" height="40"/></a>
+{% endif %}
+{% if member.email %}
+<a href="{{member.email}}"><img src="/images/design/social_media_icons/email.png" width="40" height="40"/></a>
 {% endif %}
 
 <br>

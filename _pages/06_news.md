@@ -39,14 +39,14 @@ permalink: /news/
 - Joint workshop on Git and Github with the Helfrich lab.
 - **Mara** and **Charlotte** are accepted as members of the IMPRS-MMFD. Congratulations!
 - Vera Voigtländer, PhD student in Dr. Steffen Hage’s lab presents her recent work in our weekly lab meeting.
-- First Joint science event with Helfrich lab and Breska lab with talks, discussions and after-work drinks.
+- First joint science event with Helfrich lab and Breska lab with talks, discussions and after-work drinks.
 
 ### October 
 
 - **Andrey Zyranov** joins the lab as a Master’s student of the IMPRS-MMFD 5-year track. Welcome!
 - **Lea-Marie Tewald** joins the lab as a M.D. student. Welcome!
 - **Mara** and **Charlotte** are accepted as members of the Graduate Training Centre of Neuroscience (GTC) Tübingen. Congrats!
-- First lab hike in Bad Urach.
+- First lab hike in Bad Urach ([more](/posts/lab-hike/)).
 - Joint lab meeting with Helfrich lab and Breska lab, guest speaker: Dr. Giovanni Di Liberto.
 
 ### September 

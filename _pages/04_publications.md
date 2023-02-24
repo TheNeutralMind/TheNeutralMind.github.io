@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_title: Publications
 title: Publications
 permalink: /publications/
 toggle: on

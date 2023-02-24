@@ -1,5 +1,6 @@
 ---
 layout: default
+nav_title: Studies
 title: Studies
 permalink: /studies/
 ---

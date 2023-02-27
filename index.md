@@ -10,7 +10,9 @@ We use behavioural and electrophysiological (MEG, (intracranial) EEG) measures i
 We are located in the Centre for Integrative Neuroscience, Tübingen, Germany.
 <br/><br/>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2642.0794852714384!2d9.039359815801749!3d48.53170843160651!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4799e4d1ba7c6b51%3A0x50182041ad18c70e!2sCentre%20for%20Integrative%20Neuroscience!5e0!3m2!1sde!2sde!4v1666187186192!5m2!1sde!2sde" width="450" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{% include slideshow.html %}
+
+<br/>
 
 **Our address:** <br>
 We are located on the entrance floor of the CIN building (3rd floor).<br>
@@ -19,4 +21,9 @@ We are located on the entrance floor of the CIN building (3rd floor).<br>
 *c/o Dr. Yulia Oganian* <br>
 *Otfried-Müller-Str. 25* <br>
 *72076 Tübingen* <br>
-<br>
+
+<br/>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2642.0794852714384!2d9.039359815801749!3d48.53170843160651!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4799e4d1ba7c6b51%3A0x50182041ad18c70e!2sCentre%20for%20Integrative%20Neuroscience!5e0!3m2!1sde!2sde!4v1666187186192!5m2!1sde!2sde" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+

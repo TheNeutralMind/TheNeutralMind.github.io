@@ -8,11 +8,16 @@ permalink: /news/
 # 2023
 <hr>
 
-### March (upcoming) 
+### April (upcoming)
+- First joint lab meeting with Dr. Liberty Hamilton's lab.
+- Joint lab meeting with Helfrich lab and Breska lab, guest speaker: Dr. Saskia Haegens.
 
+### March
+
+- **Lea** reaches a milestone by presenting her half-term results at the colloquium of her medical doctoral program (IZKF).
 - **Andrey, Mara** and **Charlotte** go on the IMPRS-MMFD retreat to Heilbronn.  
 
-### February  (upcoming)
+### February
 
 - Joint lab meeting with Helfrich lab and Breska lab, guest speaker: Dr. Ayelet Landau.
 

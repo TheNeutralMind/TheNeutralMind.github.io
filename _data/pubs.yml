@@ -4,13 +4,6 @@
 
 - year: '2022'
   type: 'preprint'
-  title: 'Phase alignment of low-frequency neural activity to the amplitude envelope of speech reflects evoked responses to acoustic edges, not oscillatory entrainment.'
-  authors: 'Oganian, Y.*, Kojima, K.*, Breska, A., Cheng, C., Findlay, A., Chang, E.F. & Nagarajan, S.'
-  journal: '<i>BioRxiv.</i>'
-  link: https://biorxiv.org/content/10.1101/2020.04.02.022616v4
-  
-- year: '2022'
-  type: 'preprint'
   title: 'Neural representation of vowels and formants in human speech cortex.'
   authors: 'Oganian, Y.*, Bhaya-Grossman, I.*, Johnson, K. & Chang, E.F.'
   journal: '<i>BioRxiv.</i>'
@@ -24,6 +17,20 @@
   link: https://biorxiv.org/content/10.1101/2021.07.15.452519
  
 - header: '<h3>Published in peer-reviewed journals</h3>'
+
+- year: '2023'
+  type: 'published'
+  title: 'Phase alignment of low-frequency neural activity to the amplitude envelope of speech reflects evoked responses to acoustic edges, not oscillatory entrainment.'
+  authors: 'Oganian, Y.*, Kojima K.*, Breska A., Cheng C., Findlay A., Chang E.F. & Nagarajan S.'
+  journal: '<i>Journal of Neuroscience.</i>'
+  link: https://www.jneurosci.org/content/early/2023/04/21/JNEUROSCI.1663-22.2023
+  
+- year: '2023'
+  type: 'published'
+  title: 'Neural representation of vowels and formants in human speech cortex.'
+  authors: 'Oganian Y.*, Bhaya-Grossman, I.*, Johnson K. & Chang E.F.'
+  journal: '<i>Cell.</i>'
+  link: https://www.cell.com/neuron/fulltext/S0896-6273(23)00266-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627323002660%3Fshowall%3Dtrue
 
 - year: '2021'
   type: 'published'

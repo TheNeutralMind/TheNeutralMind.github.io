@@ -8,7 +8,10 @@ permalink: /news/
 # 2023
 <hr>
 
-### April (upcoming)
+### April
+
+-  Paper “Low-frequency neural tracking of speech envelope reflects evoked responses to acoustic edges, not oscillatory entrainment” published in the *Journal of Neuroscience* by **Yulia** in collaboration with  Katsuaki Kojima, Assaf Breska, Chang Cai, Anne Findlay, Edward Chang and Srikantan Nagarajan ([link](https://www.jneurosci.org/content/early/2023/04/21/JNEUROSCI.1663-22.2023)).
+-  Paper “Vowel and formant representation in the human auditory speech cortex” published in *Cell* by **Yulia** in collaboration with Ilina Bhaya-Grossman, Keith Johnson and Edward F. Chang ([link](https://www.cell.com/neuron/pdfExtended/S0896-6273(23)00266-0)).
 - First joint lab meeting with Dr. Liberty Hamilton's lab.
 - Joint lab meeting with Helfrich lab and Breska lab, guest speaker: Dr. Saskia Haegens.
 

@@ -2,13 +2,6 @@
 
 - header: '<h3>Preprints</h3>'
 
-- year: '2022'
-  type: 'preprint'
-  title: 'Neural representation of vowels and formants in human speech cortex.'
-  authors: 'Oganian, Y.*, Bhaya-Grossman, I.*, Johnson, K. & Chang, E.F.'
-  journal: '<i>BioRxiv.</i>'
-  link: https://biorxiv.org/content/10.1101/2022.09.13.507547
-  
 - year: '2021'
   type: 'preprint'
   title: 'Latent neural dynamics encode temporal context in speech.'

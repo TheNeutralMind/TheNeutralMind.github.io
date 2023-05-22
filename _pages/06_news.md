@@ -8,6 +8,17 @@ permalink: /news/
 # 2023
 <hr>
 
+### June (upcoming)
+
+- The conference "Psychologie und Gehirn" takes place in Tübingen.
+- **Charlotte** is awarded the State Postgraduate Fellowship, starting this month.
+- Dr. Maja Linke will give a guest talk at our weekly lab meeting.
+- **Charlotte** will represent the HVCLab at the Project Fair for graduate students, organized by the GTC (15.06., 5:30 pm at HNO lecture hall). Pass by and have a chat if you're interested in our work!
+
+### May
+
+- **Yulia** gives the CIN Exchange talk "Convergent ideas about neural coding in CIN: Local Coding in Touch and Audition", together with Prof. Dr. Cornelius Schwarz.
+
 ### April
 
 -  Paper “Low-frequency neural tracking of speech envelope reflects evoked responses to acoustic edges, not oscillatory entrainment” published in the *Journal of Neuroscience* by **Yulia** in collaboration with  Katsuaki Kojima, Assaf Breska, Chang Cai, Anne Findlay, Edward Chang and Srikantan Nagarajan ([link](https://www.jneurosci.org/content/early/2023/04/21/JNEUROSCI.1663-22.2023)).

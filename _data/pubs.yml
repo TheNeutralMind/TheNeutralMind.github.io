@@ -1,16 +1,16 @@
 - header: '<h2>Speech, Language, Neuroscience</h2>'
 
-- header: '<h3>Preprints</h3>'
+#- header: '<h3>Preprints</h3>'
 
-- year: '2021'
-  type: 'preprint'
-  title: 'Latent neural dynamics encode temporal context in speech.'
-  authors: 'Stephen, E.P., Li, Y., Metzger, S., Oganian, Y., Chang, E.F.'
-  journal: '<i>BioRxiv.</i>'
-  link: https://biorxiv.org/content/10.1101/2021.07.15.452519
- 
 - header: '<h3>Published in peer-reviewed journals</h3>'
 
+- year: '2023'
+  type: 'published'
+  title: 'Latent neural dynamics encode temporal context in speech.'
+  authors: 'Stephen, E.P., Li, Y., Metzger, S., Oganian, Y., Chang, E.F.'
+  journal: '<i>Hearing Research.</i>'
+  link: https://www.sciencedirect.com/science/article/pii/S0378595523001508?via%3Dihub
+  
 - year: '2023'
   type: 'published'
   title: 'Phase alignment of low-frequency neural activity to the amplitude envelope of speech reflects evoked responses to acoustic edges, not oscillatory entrainment.'

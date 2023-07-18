@@ -8,12 +8,12 @@ permalink: /news/
 # 2023
 <hr>
 
-### June (upcoming)
+### June
 
 - The conference "Psychologie und Gehirn" takes place in Tübingen.
 - **Charlotte** is awarded the State Postgraduate Fellowship, starting this month.
 - Dr. Maja Linke will give a guest talk at our weekly lab meeting.
-- **Charlotte** will represent the HVCLab at the Project Fair for graduate students, organized by the GTC (15.06., 5:30 pm at HNO lecture hall). Pass by and have a chat if you're interested in our work!
+- **Charlotte** represents the HVCLab at the Project Fair for graduate students, organized by the GTC (15.06., 5:30 pm at HNO lecture hall).
 
 ### May
 

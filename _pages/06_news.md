@@ -8,11 +8,32 @@ permalink: /news/
 # 2023
 <hr>
 
+### October (upcoming)
+
+- The lab attends the Cutting Gardens conference in Frankfurt where Yulia is giving a talk on "Encoding models and how to use them - deciphering the cortical representation of continuous speech".
+
+### September (upcoming)
+
+- Read **Yulia's** new publication "Latent neural dynamics encode temporal context in speech" in Hearing Research, in collaboration with Emily P Stephen, Yuanning Li, Sean Metzger, and Edward F Chang.
+- **Mara** and **Charlotte** give a workshop at the NeNa conference in Frankfurt.
+- The Tübingen Systems Neuroscience Symposium is taking place.
+
+### August (upcoming)
+
+- **Mara** attends the ASPP summer school in Heraklion, Greece.
+- **Charlotte** attends the ILCB summer school in Marseille, France.
+
+### July
+
+- **Yulia's** most recent article in *Neuron* in collaboration with Ilina Bhaya-Grossman, Keith Johnson and Edward F. Chang made it to the cover page! Check it out here: ([link](https://www.cell.com/neuron/issue?pii=S0896-6273(22)X0014-7))
+- **Yulia** gives a talk at the TNC Elevator Pitches.
+- **Madeline** leaves the lab to start her European Master's in Clinical Linguistics. Good luck!
+
 ### June
 
 - The conference "Psychologie und Gehirn" takes place in Tübingen.
 - **Charlotte** is awarded the State Postgraduate Fellowship, starting this month.
-- Dr. Maja Linke will give a guest talk at our weekly lab meeting.
+- Dr. Maja Linke gives a guest talk at our weekly lab meeting.
 - **Charlotte** represents the HVCLab at the Project Fair for graduate students, organized by the GTC (15.06., 5:30 pm at HNO lecture hall).
 
 ### May

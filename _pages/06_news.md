@@ -25,7 +25,7 @@ permalink: /news/
 
 ### July
 
-- **Yulia's** most recent article in *Neuron* in collaboration with Ilina Bhaya-Grossman, Keith Johnson and Edward F. Chang made it to the cover page! Check it out ([here](https://www.cell.com/neuron/issue?pii=S0896-6273(22)X0014-7)).
+- **Yulia's** most recent article in *Neuron* in collaboration with Ilina Bhaya-Grossman, Keith Johnson and Edward F. Chang made it to the cover page! Check it out [here](https://www.cell.com/neuron/issue?pii=S0896-6273(22)X0014-7).
 - **Yulia** gives a talk at the TNC Elevator Pitches.
 - **Madeline** leaves the lab to start her European Master's in Clinical Linguistics. Good luck!
 

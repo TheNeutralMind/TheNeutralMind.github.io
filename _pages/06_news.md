@@ -12,13 +12,13 @@ permalink: /news/
 
 - The lab attends the Cutting Gardens conference in Frankfurt where Yulia is giving a talk on "Encoding models and how to use them - deciphering the cortical representation of continuous speech".
 
-### September (upcoming)
+### September
 
 - Read **Yulia's** new publication "Latent neural dynamics encode temporal context in speech" in Hearing Research, in collaboration with Emily P Stephen, Yuanning Li, Sean Metzger, and Edward F Chang.
 - **Mara** and **Charlotte** give a workshop at the NeNa conference in Frankfurt.
 - The Tübingen Systems Neuroscience Symposium is taking place.
 
-### August (upcoming)
+### August
 
 - **Mara** attends the ASPP summer school in Heraklion, Greece.
 - **Charlotte** attends the ILCB summer school in Marseille, France.

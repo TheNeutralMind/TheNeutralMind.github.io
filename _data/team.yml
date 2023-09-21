@@ -93,21 +93,34 @@
     French, some Italian and is always happy to find new conversation partners to improve her knowledge of Thai. 
   photo: /images/team/lea-marie_tewald.jpeg
 
-- name: Madeline Philipsen
+- name: Daniels Dijevs
   is_pi: False
   is_current: True
-  position: Student Assistant
-  github: 
+  position: Master Student
+  linkedin: https://www.linkedin.com/in/daniels-d/
   bio: >
-    Madeline is currently writing her Bachelor's Thesis in General Linguistics at the University of Tübingen. She aims to start a Master's
-    degree in Cognitive Neuroscience in September 2023 and works as a student assistant in the HVC lab to gather research experience in this area. 
-    In her free time, she plays the piano and the violin. She speaks German, English, French, Japanese and some Italian and Arabic.
-  photo: 
+    Daniels is an Erasmus Exchange student with a keen interest in auditory processing of both language and music. 
+    Originally, he comes from Latvia where he received B.A. in general psychology from the University of Latvia 
+    which included a year of exchange at the University of Bergen, Norway where his scientific interest shifted
+    towards the biophysical approach to cognition research. Currently, his home University is University of Vilnius,
+    Lithuania, and he was graciously accepted into the HVC to combine his life-long interests in music and languages
+    with passion for science by having been given the opportunity to work on an ongoing laboratory project in 
+    addition to developing his MSc Thesis. In his free time, Daniels enjoys singing, playing electric guitar,
+    mountain biking, hiking, and bikepacking/backpacking. He speaks Latvian, English, Russian, and Norwegian.
+  photo: /images/team/daniels_dijevs.jpg
+
+- name: Madeline Philipsen
+  is_pi: False
+  is_current: False
+  position: Student Assistant
 
 - name: Ema Zezelic
   is_pi: False
-  is_current: True
+  is_current: False
   position: Master Student, Lab Rotation
-  github: 
-  bio: >
-  photo: 
+
+- name: Harivignesh Ganesan
+  is_pi: False
+  is_current: False
+  position: Master Student, Lab Rotation
+

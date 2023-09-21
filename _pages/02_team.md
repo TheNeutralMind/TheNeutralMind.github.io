@@ -25,18 +25,20 @@ rank: 2
             {% endif %}
         {% endif %}
     {% endfor %}
-    <!-- Non-current (alumni) 
+    <!-- Non-current (alumni) -->
     {% assign alumni_size = site.data.team | size %}
     {% if alumni_size > 0 %}
         <h1 class="post-title">Alumni</h1>
         {% for member in site.data.team %}
             {% if member.is_current == false %}
-                {% if member.name and member.bio %}
-                    {% include member.html %}
+                {% if member.name %}
+                    <div class="member-title"><span class="member-name">{{ member.name }} </span></div>
+                    <h4>{% if member.position %}({{ member.position }}){% endif %}</h4>
+                    <br>
                 {% endif %}
             {% endif %}
         {% endfor %}
     {% endif %}
-    -->
+
     </body>
 </div>

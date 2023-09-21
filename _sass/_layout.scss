@@ -9,7 +9,35 @@ body {
 
 .header_logo {
 	display: flex;
+	position: sticky;
+	background-color: #fff;
 }
+
+.header_title {
+	position: sticky;
+	background-color: #fff;
+}
+
+.header_subtitle {
+	position: sticky;
+	line-height: 0.0;
+	font-size: 1.6em;
+	padding-top: 1.2em;
+	padding-left: 324px;
+	padding-bottom: 1.2em;
+	color: $font-color;
+	font-style: italic;
+	background-color: #fff;
+	font-weight: 600;
+}
+
+.complete_header {
+	position: sticky;
+	top: 33px;
+	background-color: #fff;
+	width: 100%;
+}
+
 
 // When the site becomes smaller than 706, the logo should go down because the header needs two rows
 @media (max-width: 706px) {
@@ -72,6 +100,7 @@ h4 {
 	margin-bottom: 1.2em;
 	color: $font-color;
 	font-style: italic;
+	background-color: #fff;
 }
 
 hr {

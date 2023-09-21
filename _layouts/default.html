@@ -3,16 +3,18 @@
 {% include head.html %}
 
 <body>
+	<div class="complete_header">
+		<div class="header_logo">
+			<img class="logo" style="float:left" position="relative" src="/images/design/our_logo/logo.svg" width="324" height=auto/>
 
-	<div class="header_logo">
-		<img class="logo" style="float:left" position="relative" src="/images/design/our_logo/logo.svg" width="324" height=auto/>
-
-		<div class="header_title">
-			<h1>{{ site.title }}</h1>
-			<hr />
+			<div class="header_title">
+				<h1>{{ site.title }}</h1>
+				<hr />
+			</div>
 		</div>
+
+		<div class="header_subtitle">{{ site.subtitle }}</div>
 	</div>
-	<div class="subtitle">{{ site.subtitle }}</div>
 
 	<br>
 	{% include header.html %}

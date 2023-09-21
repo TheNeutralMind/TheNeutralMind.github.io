@@ -16,7 +16,7 @@ permalink: /news/
 
 - Read **Yulia's** new publication "Latent neural dynamics encode temporal context in speech" in Hearing Research, in collaboration with Emily P Stephen, Yuanning Li, Sean Metzger, and Edward F Chang ([link](https://www.sciencedirect.com/science/article/pii/S0378595523001508)).
 - **Mara** and **Charlotte** give a workshop at the [NeNa conference](https://nenaconference.wordpress.com) in Frankfurt.
-- The Tübingen Systems Neuroscience Symposium is taking place.
+- The [Tübingen Systems Neuroscience Symposium](http://meg.medizin.uni-tuebingen.de/2023/) is taking place.
 
 ### August
 

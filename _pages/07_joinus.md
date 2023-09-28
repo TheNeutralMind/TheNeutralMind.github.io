@@ -7,12 +7,15 @@ permalink: /joinus/
 
 # Join us!
 
+<br>
 
 ### Open positions
 - We are looking for a postdoctoral researcher to join the lab, see [here](../uploaded_files/2023-09-28-postdoc.html) for details.
 - Moreover, we are looking for multiple research assistants starting in winter/spring 2024 on an hourly basis (up to 80 hours/months). If you are interested, please contact Yulia for details.
 
+<br>
 <hr>
+<br>
 
 ### General information
 We are always interested to hear from individuals interested in joining us at all levels. Please contact Yulia to discuss opportunities according to individual interests. Specific open positions will be advertised above. 

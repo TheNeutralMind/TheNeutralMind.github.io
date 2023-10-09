@@ -109,6 +109,19 @@
     mountain biking, hiking, and bikepacking/backpacking. He speaks Latvian, English, Russian, and Norwegian.
   photo: /images/team/daniels_dijevs.jpg
 
+- name: Joel Baisch
+  is_pi: False
+  is_current: True
+  position: Research Assistant
+  bio: >
+    Joel is an undergraduate student at the University of Tübingen studying linguistics and English. His research interests 
+    primarily revolve around language contact and historical linguistics. Joel's passion for these subjects ignited during 
+    his extended stays in Norway, spanning over two years, during which he dedicated himself to learning and understanding 
+    the Norwegian language and its relation to its Scandinavian relatives.
+    Outside of university, Joel's interests focus mainly on making music and sports.
+  photo: /images/team/joel_baisch.jpg
+
+
 - name: Madeline Philipsen
   is_pi: False
   is_current: False

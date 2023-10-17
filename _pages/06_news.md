@@ -8,12 +8,18 @@ permalink: /news/
 # 2023
 <hr>
 
-### October (upcoming)
+### November (upcoming)
 
-- The lab attends the [Cutting Gardens](https://cuttinggardens2023.org) conference in Frankfurt where Yulia is giving a talk on "Encoding models and how to use them - deciphering the cortical representation of continuous speech".
+- **Yulia** hosts the CIN Exchanges lecture in Tübingen. This time, we welcome Dr. Benjamin Morillon for the talk "Neural dynamics and computations constraining speech and music processing".
+
+### October
+
+- The lab attends the [Cutting Gardens](https://cuttinggardens2023.org) conference in Frankfurt where **Yulia** is giving a talk on "Encoding models and how to use them - deciphering the cortical representation of continuous speech" and **Charlotte** is presenting a poster.
+- Joint lab meeting with Helfrich lab and Breska lab, guest speaker: Nir Ofir.
 
 ### September
 
+- Dr. Asya Achimova gives a guest talk at our weekly lab meeting.
 - Read **Yulia's** new publication "Latent neural dynamics encode temporal context in speech" in Hearing Research, in collaboration with Emily P Stephen, Yuanning Li, Sean Metzger, and Edward F Chang ([link](https://www.sciencedirect.com/science/article/pii/S0378595523001508)).
 - **Mara** and **Charlotte** give a workshop at the [NeNa conference](https://nenaconference.wordpress.com) in Frankfurt.
 - The [Tübingen Systems Neuroscience Symposium](http://meg.medizin.uni-tuebingen.de/2023/) is taking place.
@@ -31,6 +37,7 @@ permalink: /news/
 
 ### June
 
+- Summer garden party together with Helfrich lab and Breska lab!
 - The conference "Psychologie und Gehirn" takes place in Tübingen.
 - **Charlotte** is awarded the State Postgraduate Fellowship, starting this month.
 - Dr. Maja Linke gives a guest talk at our weekly lab meeting.
@@ -38,7 +45,7 @@ permalink: /news/
 
 ### May
 
-- **Yulia** gives the CIN Exchange talk "Convergent ideas about neural coding in CIN: Local Coding in Touch and Audition", together with Prof. Dr. Cornelius Schwarz.
+- **Yulia** gives the CIN Exchanges lecture "Convergent ideas about neural coding in CIN: Local Coding in Touch and Audition", together with Prof. Dr. Cornelius Schwarz.
 
 ### April
 

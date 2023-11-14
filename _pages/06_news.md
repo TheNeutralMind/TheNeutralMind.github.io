@@ -8,14 +8,21 @@ permalink: /news/
 # 2023
 <hr>
 
-### November (upcoming)
+### December (upcoming)
+
+- 3 lab christmas party, together with the Helfrich lab and Breska lab!
+
+### November
 
 - **Yulia** hosts the CIN Exchanges lecture in Tübingen. This time, we welcome Dr. Benjamin Morillon for the talk "Neural dynamics and computations constraining speech and music processing".
+- **Yulia** participates in the [Society for Neuroscience Conference](https://www.sfn.org/meetings/neuroscience-2023) in Washington, D.C., where she presents a poster about her work on [neural tracking of speech](https://www.jneurosci.org/content/early/2023/04/21/JNEUROSCI.1663-22.2023).
 
 ### October
 
 - The lab attends the [Cutting Gardens](https://cuttinggardens2023.org) conference in Frankfurt where **Yulia** is giving a talk on "Encoding models and how to use them - deciphering the cortical representation of continuous speech" and **Charlotte** is presenting a poster.
 - Joint lab meeting with Helfrich lab and Breska lab, guest speaker: Nir Ofir.
+- **Andrey** continues to work in the lab now as a PhD student!
+- **Joel** starts in the lab as student assistant. Welcome!
 
 ### September
 
@@ -23,6 +30,7 @@ permalink: /news/
 - Read **Yulia's** new publication "Latent neural dynamics encode temporal context in speech" in Hearing Research, in collaboration with Emily P Stephen, Yuanning Li, Sean Metzger, and Edward F Chang ([link](https://www.sciencedirect.com/science/article/pii/S0378595523001508)).
 - **Mara** and **Charlotte** give a workshop at the [NeNa conference](https://nenaconference.wordpress.com) in Frankfurt.
 - The [Tübingen Systems Neuroscience Symposium](http://meg.medizin.uni-tuebingen.de/2023/) is taking place.
+- **Daniels** starts as a Master student in the lab. Welcome!
 
 ### August
 

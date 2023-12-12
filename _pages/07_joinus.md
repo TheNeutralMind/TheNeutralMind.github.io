@@ -10,7 +10,7 @@ permalink: /joinus/
 <br>
 
 ### Open positions
-- we are looking for a PhD student to join the lab starting April 2024, see [here](../uploaded_files/2023-12-12-phd.html) for details.
+- We are looking for a PhD student to join the lab starting April 2024, see [here](../uploaded_files/2023-12-12-phd.html) for details.
 - We are looking for a postdoctoral researcher to join the lab, see [here](../uploaded_files/2023-09-28-postdoc.html) for details.
 - Moreover, we are looking for multiple research assistants starting in winter/spring 2024 on an hourly basis (up to 80 hours/months). If you are interested, please contact Yulia for details. Note that you have to be already enrolled at a German university to be eligible for these positions.
 

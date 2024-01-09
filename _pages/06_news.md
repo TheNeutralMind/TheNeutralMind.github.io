@@ -8,8 +8,9 @@ permalink: /news/
 # 2023
 <hr>
 
-### December (upcoming)
+### December
 
+- Prof. Dr. Uri Hasson (Princeton University) visits our lab and gives a talk at the TNC Neurocolloquium.
 - 3 lab christmas party, together with the Helfrich lab and Breska lab!
 
 ### November

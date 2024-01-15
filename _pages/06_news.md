@@ -4,6 +4,13 @@ nav_title: News
 title: News
 permalink: /news/
 ---
+# 2024
+<hr>
+
+### January
+
+- **Johanna** starts as a Bachelor student in the lab. Welcome!
+
 
 # 2023
 <hr>

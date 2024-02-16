@@ -109,6 +109,18 @@
     mountain biking, hiking, and bikepacking/backpacking. He speaks Latvian, English, Russian, and Norwegian.
   photo: /images/team/daniels_dijevs.jpg
 
+- name: Johanna Oefele
+  is_pi: False
+  is_current: True
+  position: Bachelor Student
+  bio: >
+    Johanna is studying Biology and joined the lab for her bachelor thesis regarding speech rate normalization effects. 
+    Her interest in psychology, neural processes and behavioural studies motivates her to explore the field of neuroscience 
+    even more in her future studies. In her free time, Johanna likes to be outside, be it either taking pictures of cats, 
+    doing sports like biking, running and Quadball (formerly known as Quidditch) or travelling to different countries. 
+    She speaks German, English, some French, as well as little bits of Spanish and Norwegian.
+  photo: /images/team/johanna_oefele.jpg
+
 - name: Joel Baisch
   is_pi: False
   is_current: True

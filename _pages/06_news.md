@@ -7,9 +7,17 @@ permalink: /news/
 # 2024
 <hr>
 
+### March
+**Victoria** starts as a research assistant in the lab. Welcome!
+
+### February
+
+
+
 ### January
 
 - **Johanna** starts as a Bachelor student in the lab. Welcome!
+- **Yulia** is awarded the [Human Cognitive and Behavioural Science Grant](https://www.sfari.org/2024/01/23/2023-sfari-human-cognitive-and-behavioral-science-awardees-announced/) administered by the Simons Foundation Autism Research Initiative (SFARI) for the project "Neural tracking of acoustic-prosodic content in speech in adults with high-functioning ASD".
 
 
 # 2023

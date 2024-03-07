@@ -11,7 +11,7 @@ permalink: /news/
 - **Victoria** starts as a research assistant in the lab. Welcome!
 
 ### February
-
+- New project in the lab: Starting in April 2024, [this project](https://www.hadw-bw.de/junge-akademie/win-kolleg/komplexitaetsreduktion/neutral-by-choice), newly funded by the Heidelberg Academy of sciences, will explore empirical evidence for cognitive states of neutrality during perceptual decision making. In collaboration with [Verena Wagner](https://verenawagner.net) (Konstanz) and [Christoph Korn](http://www.dnhi-lab.org) (Heidelberg)
 
 
 ### January

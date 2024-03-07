@@ -10,7 +10,6 @@ permalink: /joinus/
 <hr>
 <br>
 
-### General information
 We are always interested to hear from individuals interested in joining us at all levels. Please contact Yulia to discuss opportunities according to individual interests. Specific open positions will be advertised above. 
 Opportunities:
 

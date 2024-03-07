@@ -8,7 +8,7 @@ permalink: /news/
 <hr>
 
 ### March
-**Victoria** starts as a research assistant in the lab. Welcome!
+- **Victoria** starts as a research assistant in the lab. Welcome!
 
 ### February
 

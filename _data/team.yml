@@ -1,3 +1,12 @@
-Dr. Verena Wagner, Uni Konstanz
-Dr. Yulia Oganian, Uni Tübingen
-Jun.-Prof. Dr. Christoph Korn, Uni Heidelberg
+- name: Dr. Verena Wagner
+  is_pi: True
+  is_current: True
+  university: Konstanz
+- name: Dr. Yulia Oganian
+  is_pi: True
+  is_current: True
+  university: Tübingen
+- name: Jun.-Prof. Dr. Christoph Korn
+  is_pi: True
+  is_current: True
+  university: Heidelberg

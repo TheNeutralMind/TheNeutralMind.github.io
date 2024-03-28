@@ -1,13 +1,13 @@
 # Site Settings
-title: Cognitive Neuroscience of Human Verbal Communication
-subtitle: Oganian Lab
-tabtitle: HVC Lab
-email: oganianlab@posteo.de
+title: Cognitive Neuroscience meets Philosophy of Mind
+subtitle: 
+tabtitle: 
+email: 
 description: 
 baseurl: ''
-url: 'http://localhost:4000'
-twitter_username: yoganian
-github_username:  HVCLab
+url: 
+twitter_username: 
+github_username:  TheNeutralMind
 # Build Settings
 sass:
   sass_dir: _sass

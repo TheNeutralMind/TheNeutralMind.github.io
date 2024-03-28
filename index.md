@@ -2,28 +2,6 @@
 layout: default
 ---
 
-<h1>Welcome to the HVC Lab!</h1>
-Starting out in November 2021, we are a growing research group studying the cognitive and neural mechanisms that support language comprehension and verbal communication.
-<br/><br/>
-We use behavioural and electrophysiological (MEG, (intracranial) EEG) measures in humans.
-<br/><br/>
-We are located in the Centre for Integrative Neuroscience, Tübingen, Germany.
-<br/><br/>
-
-{% include slideshow.html %}
-
-<br/>
-
-**Our address:** <br>
-We are located on the entrance floor of the CIN building (3rd floor).<br>
-
-*Human Verbal Communication Lab* <br>
-*c/o Dr. Yulia Oganian* <br>
-*Otfried-Müller-Str. 25* <br>
-*72076 Tübingen* <br>
-
-<br/>
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2642.0794852714384!2d9.039359815801749!3d48.53170843160651!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4799e4d1ba7c6b51%3A0x50182041ad18c70e!2sCentre%20for%20Integrative%20Neuroscience!5e0!3m2!1sde!2sde!4v1666187186192!5m2!1sde!2sde" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+<h1>the Neutral Mind!</h1>
+Neutrale Geisteszustände sind sowohl in zeitgenössischen philosophischen Theorien als auch in den kognitiven Neurowissenschaften systematisch unterrepräsentiert. Das ist überraschend, weil es oft vorkommt, dass sich Personen in ihrem Urteil zurückhalten, etwa weil sie zu wenig wissen, weil sie vorsichtig sein wollen, oder weil sie Dinge für unentscheidbar halten. Die gegenwärtige Nichtbeachtung dieser verschiedenen neutralen Haltungen ist dem Versuch geschuldet, die Komplexität von Entscheidungsmodellen zu reduzieren, was bei experimentellen Ansätzen oft dazu führt, dass neutrale Entscheidungen als Fehler interpretiert oder durch „forced choice“- Verfahren aktiv unterdrückt werden. Dieses Projekt ist der Versuch, die verlorene Komplexität zurückzubringen und ein naturalistischeres Verständnis von Entscheidungen zu erlangen, in dem es die Möglichkeit gibt, entschieden unentschieden zu sein. Wir beginnen mit einer philosophischen Skizze der verschiedenen Arten kognitiver Neutralität, übersetzen diese in empirisch bewertbare Parameter und entwickeln auf dieser Basis neue Methoden zur empirischen Erhebung verschiedener Arten des Neutralseins. Wir konzentrieren uns dabei auf zwei zentrale Kontexte menschlichen Entscheidens: die Wahrnehmung und die Kooperation. Die theoretischen und empirischen Erkenntnisse sollen eine Überarbeitung der anerkannten neurokognitiven und philosophischen Theorien motivieren.
 

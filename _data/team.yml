@@ -1,7 +1,7 @@
 - name: Dr. Verena Wagner
   is_pi: True
   is_current: True
-  university: Konstanz
+  
 - name: Dr. Yulia Oganian
   is_pi: True
   is_current: True

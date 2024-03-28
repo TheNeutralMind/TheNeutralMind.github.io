@@ -6,8 +6,9 @@ permalink: /publications/
 toggle: on
 rank: 2
 ---
+Bisher sind noch keine Publikationen im Rahmen des Projekts entstanden.
 
-\* Equal contributions
+
 
 
 <div class="lab-wrapper">

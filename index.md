@@ -2,6 +2,6 @@
 layout: default
 ---
 
-<h1>the Neutral Mind!</h1>
+<h1>The Neutral Mind</h1>
 Neutrale Geisteszustände sind sowohl in zeitgenössischen philosophischen Theorien als auch in den kognitiven Neurowissenschaften systematisch unterrepräsentiert. Das ist überraschend, weil es oft vorkommt, dass sich Personen in ihrem Urteil zurückhalten, etwa weil sie zu wenig wissen, weil sie vorsichtig sein wollen, oder weil sie Dinge für unentscheidbar halten. Die gegenwärtige Nichtbeachtung dieser verschiedenen neutralen Haltungen ist dem Versuch geschuldet, die Komplexität von Entscheidungsmodellen zu reduzieren, was bei experimentellen Ansätzen oft dazu führt, dass neutrale Entscheidungen als Fehler interpretiert oder durch „forced choice“- Verfahren aktiv unterdrückt werden. Dieses Projekt ist der Versuch, die verlorene Komplexität zurückzubringen und ein naturalistischeres Verständnis von Entscheidungen zu erlangen, in dem es die Möglichkeit gibt, entschieden unentschieden zu sein. Wir beginnen mit einer philosophischen Skizze der verschiedenen Arten kognitiver Neutralität, übersetzen diese in empirisch bewertbare Parameter und entwickeln auf dieser Basis neue Methoden zur empirischen Erhebung verschiedener Arten des Neutralseins. Wir konzentrieren uns dabei auf zwei zentrale Kontexte menschlichen Entscheidens: die Wahrnehmung und die Kooperation. Die theoretischen und empirischen Erkenntnisse sollen eine Überarbeitung der anerkannten neurokognitiven und philosophischen Theorien motivieren.
 

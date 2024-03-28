@@ -1,14 +1,14 @@
 # config file changes only get applied after re-running jekyll
 # Site Settings
-title: Cognitive Neuroscience of Human Verbal Communication
-subtitle: Oganian Lab
-tabtitle: HVC Lab
-email: oganianlab@posteo.de
+title: Cognitive Neuroscience meets Philosophy of Mind
+subtitle: 
+tabtitle: 
+email: 
 description: 
 baseurl: ''
-url: 'http://HVCLab.github.io'
-twitter_username: yoganian
-github_username:  HVCLab
+url: 'http://TheNeutralMind.github.io'
+twitter_username:
+github_username: TheNeutralMind
 # Build Settings
 sass:
   sass_dir: _sass
